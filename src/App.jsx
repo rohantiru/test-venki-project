@@ -110,6 +110,7 @@ const EVENTS = [
   { month: 'JUN', day: '21', name: 'Charity Olympic Race',   location: 'Green Lake, WA',    tag: 'Olympic', spots: 8  },
   { month: 'AUG', day: '3',  name: 'Summer Half Ironman',    location: 'Hood Canal, WA',    tag: 'Half',    spots: 20 },
   { month: 'OCT', day: '12', name: 'Fall Fundraiser 5K Run', location: 'Volunteer Park, WA',tag: 'Run',     spots: 30 },
+  { month: 'AUG', day: '22', name: 'Paris-Brest-Paris',      location: 'Rambouillet, France', tag: 'Ultra',   spots: 5  },
 ]
 
 function Events() {
