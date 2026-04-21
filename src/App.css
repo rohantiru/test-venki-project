@@ -154,7 +154,7 @@
   font-size: 2rem;
   margin-bottom: 1rem;
   display: inline-block;
-  transform: scaleX(-1);
+  transform: scaleX(1);
 }
 
 .about-card h3 {
